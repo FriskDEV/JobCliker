@@ -1,1 +1,1 @@
-These are the files used to create the #JobCliker game/also i made)
+My game for Flavortown from Hack Club: You are a person who lives in a world without autoclickers, and your job is to play other people's clickers, and they pay you.
